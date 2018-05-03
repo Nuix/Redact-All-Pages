@@ -3,7 +3,7 @@ Redact All Pages
 
 ![Last tested in Nuix 7.4](https://img.shields.io/badge/Nuix-7.4-green.svg)
 
-View the GitHub project [here](https://github.com/NuixSDK/Redact-All-Pages) or download the latest release [here](https://github.com/NuixSDK/Redact-All-Pages/releases).
+View the GitHub project [here](https://github.com/Nuix/Redact-All-Pages) or download the latest release [here](https://github.com/Nuix/Redact-All-Pages/releases).
 
 # Overview
 
